@@ -50,7 +50,7 @@ Thumbs.db
 !terraform/backend/.terraform.lock.hcl
 !terraform/.terraform.lock.hcl
 terraform/lambda/lambda_function_payload.zip
-.terraform.lock.hcl
+
 
 # AWS
 .aws/
