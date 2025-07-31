@@ -1,7 +1,7 @@
 variable "project_name" {
   type        = string
   description = "Name of the project used for resource naming"
-  default     = "archidevopsiimwebsite haha"
+  default     = "archidevopsiimwebsite"
 }
 
 variable "bucket_name" {
